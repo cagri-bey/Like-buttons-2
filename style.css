@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+
+.btns{
+    position: absolute;
+    padding: 216px;
+    left: 328px;
+    display: flex;
+}
+
+.btn {
+    background: transparent;
+    border: none;
+    margin: 45px;
+    font-size: 88px;
+    outline: none;
+    color: grey;
+}
+
+.btn i:hover{
+    cursor: pointer;
+}
